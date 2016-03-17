@@ -2,6 +2,7 @@ name: mandarini
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.07716
+title: TESTING
 cta:
   domain: null
   bucket: null
