@@ -1,7 +1,7 @@
 name: mandarini
 favicon: null
-layout_spectrum: 0.8056646578479558
-typography_spectrum: 0.22722708596847951
+layout_spectrum: 1
+typography_spectrum: 0.07716
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#d6401a'
+    - '#c7aea2'
+    - '#8a1f0d'
+    - '#6b6a70'
+    - '#0f0d0e'
   brandStrength: 0.9735132085625082
   lightness: 0.4611945648211986
   saturation: 0.3728155316784978
