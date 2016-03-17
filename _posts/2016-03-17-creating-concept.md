@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: creating concept
-datePublished: '2016-03-17T20:43:50.510Z'
-dateModified: '2016-03-17T20:43:37.141Z'
+datePublished: '2016-03-17T20:52:46.751Z'
+dateModified: '2016-03-17T20:52:39.527Z'
 title: ''
 author: []
 authors: []
@@ -23,5 +23,6 @@ _type: Article
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb4eb39c9a1ca6b8f49d9b637345aa5bbb03dc4f.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dad3b6a-462a-4fc4-a5cd-6a7a206b99e6.jpg)
 
-mandarini creating concept
+RED PEPPER NEWS
