@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "RED PEPPER NEWS \_| hasdak |ljdlka|"
-datePublished: '2016-03-18T20:41:37.070Z'
-dateModified: '2016-03-18T20:41:35.099Z'
-title: ''
+datePublished: '2016-03-18T20:50:58.477Z'
+dateModified: '2016-03-18T20:50:56.371Z'
+title: to test afto einai titlos
 author: []
 sourcePath: _posts/2016-03-17-creating-concept.md
 published: true
@@ -30,6 +30,4 @@ RED PEPPER NEWS  | hasdak |ljdlka|
 
 test2 | test 3
 
-[test 4][0]
-
-[0]: null
+> test 4
