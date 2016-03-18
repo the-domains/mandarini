@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "RED PEPPER NEWS \_| hasdak |ljdlka|"
-datePublished: '2016-03-18T20:50:58.477Z'
-dateModified: '2016-03-18T20:50:56.371Z'
-title: to test afto einai titlos
+datePublished: '2016-03-18T20:54:42.932Z'
+dateModified: '2016-03-18T20:54:40.573Z'
+title: Το τεστ αυτό είναι τίτλος
 author: []
 sourcePath: _posts/2016-03-17-creating-concept.md
 published: true
