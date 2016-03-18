@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "RED PEPPER NEWS \_| hasdak |ljdlka|"
-datePublished: '2016-03-18T20:38:09.324Z'
-dateModified: '2016-03-18T20:37:51.066Z'
+datePublished: '2016-03-18T20:41:37.070Z'
+dateModified: '2016-03-18T20:41:35.099Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-17-creating-concept.md
@@ -30,4 +30,6 @@ RED PEPPER NEWS  | hasdak |ljdlka|
 
 test2 | test 3
 
-test 4
+[test 4][0]
+
+[0]: null
