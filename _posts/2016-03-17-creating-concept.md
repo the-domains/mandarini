@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: "RED PEPPER NEWS\_"
-datePublished: '2016-03-17T21:15:29.242Z'
-dateModified: '2016-03-17T21:07:07.766Z'
+datePublished: '2016-03-18T20:32:48.755Z'
+dateModified: '2016-03-18T20:32:45.691Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-17-creating-concept.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-17-creating-concept.md
-published: true
 url: creating-concept/index.html
 _type: Article
 
